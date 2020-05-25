@@ -105,19 +105,19 @@ precision:
 
 
 ## 指标说明
-output_1_loss: 坐标损失(GIOU)
-output_2_loss: 置信度损失(Binary cross entropy)
-output_3_loss: 分类损失(categorical cross entropy)
-output_4_loss: 为了和数据输出保持一致 没有任何意义
+* output_1_loss: 坐标损失(GIOU)
+* output_2_loss: 置信度损失(Binary cross entropy)
+* output_3_loss: 分类损失(categorical cross entropy)
+* output_4_loss: 为了和数据输出保持一致 没有任何意义
 
-output_1_location_1:        坐标准确率
-output_2_confidence_1:      总的置信度准确率
-output_2_true_confidence_1: 正样本置信度准确率
-output_2_false_confidence_1:负样本置信度准确率
-output_3_categorical_1:     分类准确率
-output_4_precision_1:       精准率（不考虑类别）
-output_4_recall_1:          召回率（不考虑类别）
-output_4_map:               mAP
+* output_1_location_1:        坐标准确率
+* output_2_confidence_1:      总的置信度准确率
+* output_2_true_confidence_1: 正样本置信度准确率
+* output_2_false_confidence_1:负样本置信度准确率
+* output_3_categorical_1:     分类准确率
+* output_4_precision_1:       精准率（不考虑类别）
+* output_4_recall_1:          召回率（不考虑类别）
+* output_4_map:               mAP
 
 
 ## 预测
