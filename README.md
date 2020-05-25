@@ -51,7 +51,7 @@ anchor_sizes = [[[14.000000000000002, 14.000000000000002], [22.000000000000007, 
 ## 预览训练数据(绿色表示真实框 红色表示对应的anchor)
 tools -> dataset_previews
 <p align="center">
-    <img src="https://github.com/open-cmdb/yolov3/blob/master/images/yolov3-datasets-preview.png">
+    <img src="https://github.com/open-cmdb/yolov3/blob/master/images/yolov3-datasets-preview.jpg">
 </p>
 
 ## 训练
@@ -99,7 +99,7 @@ precision:
 ```
 
 <p align="center">
-    <img src="https://github.com/open-cmdb/yolov3/blob/master/images/yolov3-tensorboard.png">
+    <img src="https://github.com/open-cmdb/yolov3/blob/master/images/yolov3-tensorboard-2.jpg">
 </p>
 
 
