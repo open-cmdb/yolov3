@@ -1,0 +1,16 @@
+*.csv
+*.jpg
+*.JPEG
+*.jpeg
+*.index
+*.meta
+*.ckpt
+*.zip
+*.tgz
+*.tar.gz
+*.pyc
+.idea
+*.lan
+
+board_log/*
+weigths/*
